@@ -22,4 +22,4 @@
 ### Contact me 📲
 
 📩: olucasellery@gmail.com
- ⌨️: https://www.linkedin.com/in/lucas-arruda-ellery-82753118a/
+<br /> ⌨️: https://www.linkedin.com/in/lucas-arruda-ellery-82753118a/
