@@ -19,6 +19,10 @@
 
 `yarn dev`
 
+## Interesting
+
+  - Context API: have information from any places;
+
 ### Contact me 📲
 
 📩: olucasellery@gmail.com
