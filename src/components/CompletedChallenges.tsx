@@ -12,3 +12,5 @@ export function CompletedChallenges() {
     </div>
   );
 }
+
+// #focopraticagrupo
