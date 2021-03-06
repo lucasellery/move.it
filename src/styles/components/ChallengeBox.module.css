@@ -18,12 +18,17 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  padding: 1.5rem 2rem 1.5rem 2rem;
+
 }
 
 .challengeNotActive strong {
   font-size: 1.5rem;
   font-weight: 500;
   line-height: 1.4;
+
+  padding: 1.5rem 2rem 1.5rem 2rem;
 }
 
 .challengeNotActive p {
