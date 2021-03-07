@@ -128,3 +128,31 @@
 .challengeActive footer button:hover {
   filter: brightness(0.9);
 }
+
+@media (max-width: 600px) {
+  .challengeActive header {
+    padding: 1.5rem 2rem 1rem 2rem;
+  }
+
+  .challengeActive main {
+    margin-bottom: 15px;
+  }
+
+  .challengeActive main img {
+    width: 5.9375rem;
+    height: 73px;
+
+    margin: 0.6rem 0 0.4rem 0;
+  }
+
+  .challengeActive main strong {
+    display: none;
+  }
+
+  .challengeActive main p {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 25px;
+  }
+
+}

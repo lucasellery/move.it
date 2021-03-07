@@ -55,6 +55,9 @@ export function Countdown() {
               onClick={startCountdown}
             >
               Iniciar um ciclo
+              <div>
+                <img src="/icons/arrow-start.svg" alt="Seta"/>
+              </div>
             </button>
           )}
         </>
